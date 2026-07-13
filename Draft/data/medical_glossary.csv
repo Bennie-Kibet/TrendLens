@@ -1,0 +1,102 @@
+English,Dholuo,Category
+diabetes,diabetes,disease
+arthritis,arthritis,disease
+maternal health,ngima ma nyiego,health
+fever,lihuma,symptom
+pain,rem,symptom
+medicine,yath,treatment
+doctor,laktar,person
+hospital,osiptal,place
+headache,wich bar,symptom
+stomach ache,ich bar,symptom
+cough,ahola,symptom
+malaria,malaria,disease
+pregnant,ma-nyiego,condition
+child,nyathi,person
+mother,min,person
+father,wuon,person
+water,pi,resource
+food,chiemo,resource
+sleep,nindo,action
+walk,wuoth,action
+run,ringo,action
+sit,bet,action
+stand,chung,action
+speak,wuoyo,action
+listen,winjo,action
+see,neno,action
+eat,chiemo,action
+drink,madho,action
+wash,lwoko,action
+clean,ler,condition
+dirty,milo,condition
+hot,moli,condition
+cold,ng'ich,condition
+big,duong',condition
+small,tin,condition
+good,ber,condition
+bad,rach,condition
+happy,mor,condition
+sad,kuyo,condition
+angry,mirima,condition
+tired,ol,condition
+sick,tuo,condition
+healthy,ngima,condition
+strong,teko,condition
+weak,nyuol,condition
+old,oti,condition
+young,rawera,condition
+new,manyien,condition
+old (thing),machon,condition
+fast,piyo,condition
+slow,mos,condition
+near,machiegni,condition
+far,mabor,condition
+inside,ei,location
+outside,oko,location
+above,malo,location
+below,piny,location
+front,nyime,location
+back,tok,location
+left,korachwich,location
+right,koracham,location
+north,nyandwat,location
+south,milambo,location
+east,ugwe,location
+west,yimbo,location
+today,kawuono,time
+yesterday,nyoro,time
+tomorrow,kiny,time
+now,sani,time
+later,bang'e,time
+morning,okinyi,time
+afternoon,odhiambo,time
+evening,odhiambo,time
+night,otieno,time
+day,odiechieng',time
+week,juma,time
+month,dwe,time
+year,higa,time
+Monday,wuok tich,time
+Tuesday,tich ariyo,time
+Wednesday,tich adek,time
+Thursday,tich ang'wen,time
+Friday,tich abich,time
+Saturday,chieng' ng'at tich,time
+Sunday,odira,time
+one,achiel,number
+two,ariyo,number
+three,adek,number
+four,ang'wen,number
+five,abich,number
+six,auchiel,number
+seven,abiriyo,number
+eight,aboro,number
+nine,ochiko,number
+ten,apar,number
+red,makwar,color
+blue,mambulu,color
+green,maratiglo,color
+yellow,maratong' gweno,color
+black,marateng',color
+white,matar,color

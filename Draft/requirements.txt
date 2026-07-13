@@ -1,0 +1,14 @@
+transformers
+datasets
+torch
+pandas
+sentencepiece
+accelerate
+peft
+evaluate
+sacrebleu
+rouge_score
+scipy
+ipykernel
+tqdm
+python-dotenv
