@@ -1,6 +1,6 @@
 # A Low-Resource Machine Translation: English To Dholuo
 
-This project builds and evaluates a machine translation pipeline between English and Dholuo, with a focus on adapting the system for medical/telemedicine use.\n",
+This project builds and evaluates a machine translation pipeline between English and Dholuo, with a focus on adapting the system for medical/telemedicine use.
    
 ## Problem Statement
 
@@ -13,7 +13,7 @@ To build a multilingual English–Dholuo translation model, adapt it toward clin
 Dholuo-speaking patients, Kenyan telemedicine providers, and healthcare workers needing a communication bridge during remote consultations.
 
 ## Success criteria:
-BLEU and chrF score improvement over an untuned pretrained baseline, evaluated on a held-out general-domain test split and a separate medical-phrase test set.\n",
+BLEU and chrF score improvement over an untuned pretrained baseline, evaluated on a held-out general-domain test split and a separate medical-phrase test set.
 
 ## Dataset
 
