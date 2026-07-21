@@ -7,7 +7,7 @@ This project builds and evaluates a machine translation pipeline between English
 Dholuo-speaking patients — particularly rural and elderly patients managing chronic conditions like diabetes or arthritis — often struggle to communicate clearly with doctors on telemedicine platforms. Kenya's doctor-to-population ratio is below WHO guidance, making language-inclusive remote care valuable. No existing Kenyan telemedicine platform (e.g. BYON8) currently supports Dholuo, despite the language having millions of speakers.
 
 ## Objective: 
-To build a multilingual English–Dholuo translation model, adapt it toward clinical phrasing, and produce a pipeline that could plug into a telemedicine chat or voice workflow.
+To build a multilingual English–Dholuo translation model, adapt it toward clinical phrasing, and produce a pipeline that could plug into a telemedicine chat workflow.
     
 ## Target audience:
 Dholuo-speaking patients, Kenyan telemedicine providers, and healthcare workers needing a communication bridge during remote consultations.
