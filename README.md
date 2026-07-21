@@ -126,6 +126,8 @@ The notebook was authored to run on **Kaggle with a T4 x2 GPU accelerator** (int
 
 4. Note: one NLLB-200 + LoRA fine-tuning cell is an earlier draft and is intentionally left commented out to avoid duplicate training runs — only the final \"Cell 1 – Install Required Packages\" NLLB section should be executed.
 
+5. To access translations from deployed model, access via link: https://huggingface.co/spaces/roy123njuguna/Eng_Luo 
+
 ## Disclaimer
 This repository contains a proof-of-concept pipeline, It is **not** a validated clinical tool.
 
